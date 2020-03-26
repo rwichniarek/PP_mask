@@ -1,4 +1,4 @@
-# PP_mask
+# PP_visor
 3D printed protective visor
 
 ######################
