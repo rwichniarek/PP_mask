@@ -1,9 +1,10 @@
 # PP_visor
-3D printed protective visor
 
 ######################
 EN
 ######################
+
+3D printed protective visor
 
 The repository contains a design of a face shield with 3D printed parts, for medical personnel fighting COVID-19 pandemia (SARS-COV-2 virus). The project is an improvement over the original Prusa Protective Face Shield RC2:
 
@@ -16,6 +17,8 @@ The project is under development, there will be modifications. Positive recommen
 ######################
 PL
 ######################
+
+Przyłbice drukowane w 3D
 
 Repozytorium zawiera projekt przyłbicy z elementami drukowanymi w 3D, przeznaczonej dla personelu medycznego zwalczającego epidemię COVID-19 (wirus SARS-COV-2). Projekt jest udoskonaloną, zmodyfikowaną wersją Prusa Protective Face Shield RC2:
 
